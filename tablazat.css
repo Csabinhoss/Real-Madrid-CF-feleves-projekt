@@ -1,0 +1,20 @@
+body{
+    background-color: lightgray;
+}
+
+table{
+    border-collapse: collapse;
+}
+
+th{
+    border: 3px solid black;
+}
+
+td{
+    border: 1px solid black;
+}
+
+thead{
+    background-color: blue;
+    color: white;
+}

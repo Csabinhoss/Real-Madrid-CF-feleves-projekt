@@ -1,0 +1,21 @@
+body{
+    background-color: lightgray;
+}
+
+h1{
+    text-align: center;
+    color:white;
+    background-color: blue;
+}
+
+.center{
+    text-align: center;
+}
+
+.sorkizart{
+    text-align: justify;
+}
+
+.betu{
+    font-size: 15px;
+}
