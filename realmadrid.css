@@ -19,3 +19,7 @@ h1{
 .betu{
     font-size: 15px;
 }
+
+.szo-elotti-lista {
+    list-style-image: url(48x48.png);
+}
