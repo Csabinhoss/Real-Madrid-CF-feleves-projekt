@@ -23,3 +23,27 @@ h1{
 .szo-elotti-lista {
     list-style-image: url(48x48.png);
 }
+
+.rma{
+    background-color: grey;
+    width: 1000px;
+    margin-left: 0px;
+    margin-right: auto;
+    padding: 20px;
+    text-align: center;
+}
+
+.betuszin{
+    color: white;
+    font-size: 15px;
+    background-color: grey;
+}
+
+.masik{
+    background-color: grey;
+    width: 1000px;
+    margin-left: 1040px;
+    margin-right: 0px;
+    padding: 20px;
+    text-align: center;
+}
