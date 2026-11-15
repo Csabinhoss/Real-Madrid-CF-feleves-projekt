@@ -1,8 +1,8 @@
 body{
-    font-family: Arial;
-    background-color: #e8eefc;
-    margin-left: 300px;
-    margin-right: 300px;
+  font-family: Arial;
+  background-color: #e8eefc;
+  margin-left: 300px;
+  margin-right: 300px;
 }
 
 .fejlec {
@@ -61,10 +61,21 @@ body{
   width: 600px;
   margin: 0;
 }
+
 .oldal .menu {
   width: 400px;
   margin: 0 0 0 30px;
 }
+
 .oldal .menu a {
   margin-top: 0;
+}
+
+
+a:visited {
+  color: blue
+}
+
+a:hover {
+  color: yellow
 }

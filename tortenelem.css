@@ -1,0 +1,55 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #e8eefc;
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 20px;
+    line-height: 1.6;
+}
+
+h1 {
+    background-color: navy;
+    color: white;
+    text-align: center;
+    padding: 30px;
+}
+
+h2 {
+    color: blue;
+}
+
+.doboz {
+    background-color: white;
+    padding: 15px 20px;
+    margin-bottom: 20px;
+    border-left: 6px solid yellow;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th {
+    background-color: navy;
+    color: white;
+    padding: 10px;
+}
+
+td {
+    padding: 8px;
+    border-bottom: 1px solid whitesmoke;
+    text-align: center;
+}
+
+.kozepre {
+    text-align: center;
+}
+
+a:visited {
+    color: blue
+}
+
+a:hover {
+    color: yellow
+}

@@ -41,3 +41,20 @@ h1 {
 .sima {
     width: 1300px;
 }
+
+.kozepre {
+    text-align: center;
+    
+}
+
+img {
+    margin-bottom: 30px;
+}
+
+a:visited {
+    color: blue
+}
+
+a:hover {
+    color: yellow
+}
